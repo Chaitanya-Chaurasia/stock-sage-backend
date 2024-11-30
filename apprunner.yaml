@@ -1,8 +1,8 @@
 version: 1.0
-runtime: python311
+runtime: python3
 build:
   commands:
-    build:
+    install:
       - pip install -r requirements.txt
 run:
   command: python app.py
