@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+pandas
+finnhub-python
+praw
+yfinance
+Flask
+Flask-Cors
+vaderSentiment
